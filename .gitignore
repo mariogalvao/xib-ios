@@ -8,8 +8,8 @@ CodeCoverageReport/
 .DS_Store
 
 ## User settings
-#*.xcworkspace/xcuserdata/*
-#*.xcodeproj/xcuserdata/*
+*.xcworkspace/xcuserdata/*
+*.xcodeproj/xcuserdata/*
 
 ## Bitrise
 codesigndoc_exports/
